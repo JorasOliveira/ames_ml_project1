@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ames-ml-project1"
+version = "0.1.0"
+description = ""
+authors = ["JorasOliveira <joras.custodio@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ames_ml_project1"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyterlab = "^3.6.1"
+matplotlib = "^3.6.3"
+pandas = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

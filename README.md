@@ -1,1 +1,3 @@
-# ames_ml_project1
+# Ames Project
+
+First project of machine learning class 
